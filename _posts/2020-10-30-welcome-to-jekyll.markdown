@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to EazyDetailing.com!"
 date:   2020-10-30 01:38:36 -0400
 categories: jekyll update
 ---
